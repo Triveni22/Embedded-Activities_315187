@@ -7,5 +7,10 @@
 |:--:|:--:|
 |![LED_ON](https://user-images.githubusercontent.com/85540441/126935908-3082a65d-8398-48c8-b1b3-7411d664f98d.png)|![LED_OFF](https://user-images.githubusercontent.com/85540441/126936040-41afe188-7307-4092-b3d5-d1c255db5ee0.png)|
 
+# Activity_2
+## If both the above conditions are true, then input analog temperature readings are converted into digital values.
+![ADC png](https://user-images.githubusercontent.com/85540441/127177772-926795cc-867f-495f-a894-7abed191181c.png)
+
+
 
 
