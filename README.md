@@ -29,6 +29,10 @@
 ## Functioning of Application
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
 
+|Cppcheck|Build|Codacy|
+
+[![Cppcheck](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml)
+
 
 
 
