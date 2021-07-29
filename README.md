@@ -35,7 +35,7 @@
 |Build|Cppcheck|Codacy|Code Inspector|
 |:--:|:--:|:--:|:--|
 
-[![Cppcheck](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml)
+[![Compile-Linux](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml)
 
 
 
