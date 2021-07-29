@@ -23,6 +23,8 @@
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
 
 ## CI and Code Quality
-|Build|Cppcheck|Codacy|Code Inspector|
-|:--:|:--:|:--:|:--|
-[![Compile-Linux](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6eb4d9eb6f4c4216a2cb018d3e0015d6)](https://www.codacy.com/gh/Triveni22/Embedded-Activities_315187/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Triveni22/Embedded-Activities_315187&amp;utm_campaign=Badge_Grade)
+|Build|Cppcheck|Codacy|Code Inspector|Code Grade|
+|:--:|:--:|:--:|:--|:---|
+[![Compile-Linux](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Triveni22/Embedded-Activities_315187/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6eb4d9eb6f4c4216a2cb018d3e0015d6)](https://www.codacy.com/gh/Triveni22/Embedded-Activities_315187/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Triveni22/Embedded-Activities_315187&amp;utm_campaign=Badge_Grade)|![image](https://user-images.githubusercontent.com/85540441/127458690-5cb1d7e8-f21c-49aa-ad28-ebaf9e0442d3.png)|![image](https://user-images.githubusercontent.com/85540441/127458787-f5bf61b1-bbbb-4fdc-bbf6-393e8efede59.png)
+
+
