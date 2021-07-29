@@ -1,10 +1,9 @@
-DOXY_FILE = Blinky
-BUILD_FILE = html
-
-FixPath = $(subst /,\,$1)
+ACTIVITY_NAME = Activities
+all: 
+	doxygen $(ACTIVITY_NAME)_Doxyfile
 
 doc:
-	doxygen ./$(DOXY_FILE)
+	doxygen ./$(ACTIVITY_NAME)_Doxyfile
 
 clean:
-	rm -rf $(call FixPath,$(BUILD_FILE)/*)
+	rm -rf html
